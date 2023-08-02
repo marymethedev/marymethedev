@@ -1,3 +1,5 @@
+![Developer](https://github.com/marymethedev/marymethedev/assets/141233106/c16a4405-b62e-4b1d-93f8-5275574a1eb1)
+
 # Hi there! I'm Mary, a Front-end Developer.
 
 I specialize in building beautiful and scalable web and mobile applications using React and React Native. With a passion for coding and a keen eye for design, I love to create intuitive user experiences.
